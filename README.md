@@ -11,10 +11,10 @@ sostituiremo il numero in "FizzBuzz" ai numeri che sono mutlipli sia di 3 che di
 ### JS
 - [X] Creo un elemento "div" con la classe base "quadrato";
 ## LOGICA
-- [ ] creo un ciclo for da 1 a 100;
-- [ ] creo all'interno delle condizioni per assegnare il valore alla variabile;
-- [ ] assegno class sfondo all'elemento;
-- [ ] assegno valore all'elemento;
+- [x] creo un ciclo for da 1 a 100;
+- [x] creo all'interno delle condizioni per assegnare il valore alla variabile;
+- [x] assegno class sfondo all'elemento;
+- [x] assegno valore all'elemento;
 
 ## OUTPUT
-- [ ] creo elmento in pagina;
+- [x] creo elmento in pagina;
