@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: space-between;
+    background-color: blue;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 700;
+    align-items: center;
+    width: calc(100% / 10 - (90px / 10));
+    aspect-ratio: 1;
+    background-color: bisque;
+}
+
+/* background color */
+.fizz{
+    background-color: aquamarine;
+}
+
+.buzz{
+    background-color: rgb(255, 223, 94);
+}
+
+.fizz-buzz{
+    background-color: greenyellow;
+}
