@@ -1,5 +1,6 @@
 // test
 // alert("ciao");
+"use strict";
 
 // search container and save in variable
 const containerElem = document.querySelector(".container")
@@ -11,10 +12,9 @@ let result;
 // LOGIC
 // start FOR
 for(let i = 1; i <= 100; i++){
-    // reset e declaration variable
+    // create element
     const divElem = document.createElement("div");
     divElem.classList.add("box");
-    result = "";
 
     // divisible by 3 and 5
     if(i % 3 == 0 && i % 5 == 0){
@@ -39,5 +39,4 @@ for(let i = 1; i <= 100; i++){
 // OUTPUT
     divElem.innerHTML = result;
     containerElem.append(divElem);
-
 }
