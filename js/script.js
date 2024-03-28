@@ -14,9 +14,6 @@ for(let i = 1; i <= 100; i++){
     // reset e declaration variable
     const divElem = document.createElement("div");
     divElem.classList.add("box");
-    divElem.classList.remove("fizz");
-    divElem.classList.remove("fizz-buzz");
-    divElem.classList.remove("buzz");
     result = "";
 
     // divisible by 3 and 5

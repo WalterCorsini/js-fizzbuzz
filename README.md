@@ -13,7 +13,7 @@ sostituiremo il numero in "FizzBuzz" ai numeri che sono mutlipli sia di 3 che di
 ## LOGICA
 - [x] creo un ciclo for da 1 a 100;
 - [x] creo all'interno delle condizioni per assegnare il valore alla variabile;
-- [x] assegno class sfondo all'elemento;
+- [x] assegno class all'elemento;
 - [x] assegno valore all'elemento;
 
 ## OUTPUT
